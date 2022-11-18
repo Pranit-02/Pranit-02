@@ -1,4 +1,4 @@
-[![@pranit_02's Holopin board](https://www.holopin.io/@pranit_02)](https://www.holopin.io/@pranit_02)
+[![@pranit_02's Holopin board](https://holopin.me/@pranit_02)](https://www.holopin.io/@pranit_02)
 
 <h1 align="center">Hi 👋, I'm Pranit Utekar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
