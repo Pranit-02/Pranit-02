@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranit-02&label=Profile%20views&color=0e75b6&style=flat" alt="pranit-02" /> </p>
 
-- 🌱 I’m currently learning
+- 🌱 Currently learning
 
 - 👨‍💻 Reach me via [utekarpranit02@gmail.com](utekarpranit02@gmail.com)
 
